@@ -1,4 +1,4 @@
-# sealtalk-eclipse
+sealtalk-eclipse
 =================================== 
 ###因为融云的sealtalk源码是Android studio 所以我把他转成了eclipse，在改的时候，因为版本的原因发现了一些问题，我在这里总结一下，对于集成融云callkit的eclipse同学会有帮助。
 融云callkitsdk在eclipse中的错误
